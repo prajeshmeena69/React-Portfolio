@@ -117,10 +117,4 @@ Auto-deploys on every `git push` to `main`.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <p align="center">Designed & Built by <strong>Prajesh Singh Meena</strong> · KIET'28</p>
