@@ -1,40 +1,39 @@
 # 🚀 Prajesh Singh Meena — Developer Portfolio
 
-A modern, futuristic developer portfolio & CV website built with **React + Vite**.  
-Designed with a **Red & Gold dark theme**, glassmorphism cards, and smooth micro-interactions.
+A modern **developer portfolio & CV website** built with **React + Vite**, featuring a **Red & Gold dark theme**, glassmorphism UI, and smooth micro-interactions.
 
 ---
 
 ## 🌐 Live Demo
 
-> [portfolio-cv.onrender.com](https://portfolio-cv.onrender.com)
+🔗 https://portfolio-cv.onrender.com
 
 ---
 
 ## ✨ Features
 
-- ⚡ Built with **React + Vite** for fast performance
-- 🎨 **Red & Gold dark theme** with glassmorphism UI
-- 🌀 Smooth **fade-in animations** and micro-interactions
-- 💡 **Skill chips** with per-tech color glow on hover
-- 📁 **Project cards** with live demo & GitHub links
-- 🏅 **Curated certifications** section
-- 📱 **Fully responsive** — mobile, tablet & desktop
-- 🔢 Animated **stats bar** (Projects · Certs · Graduating)
-- 🔭 Scroll-triggered **IntersectionObserver** animations
-- 🧭 Fixed **navbar** with active section tracking
+* ⚡ **React + Vite** for lightning-fast performance
+* 🎨 **Red & Gold dark theme** with glassmorphism UI
+* 🌀 Smooth **fade-in animations** and micro-interactions
+* 💡 **Skill chips** with per-technology hover glow
+* 📁 **Project cards** with GitHub & live demo links
+* 🏅 Highlighted **certifications section**
+* 📱 **Fully responsive** (mobile · tablet · desktop)
+* 🔢 Animated **stats bar** (Projects · Certifications · Graduation Year)
+* 🔭 **IntersectionObserver** powered scroll animations
+* 🧭 Sticky **navbar with active section tracking**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-| Layer      | Technology                        |
-|------------|-----------------------------------|
-| Framework  | React 18                          |
-| Bundler    | Vite                              |
-| Styling    | Pure CSS (no libraries)           |
-| Fonts      | Syne · DM Sans · JetBrains Mono   |
-| Deployment | Render (Static Site)              |
+| Layer          | Technology                      |
+| -------------- | ------------------------------- |
+| **Framework**  | React 18                        |
+| **Bundler**    | Vite                            |
+| **Styling**    | Pure CSS                        |
+| **Fonts**      | Syne · DM Sans · JetBrains Mono |
+| **Deployment** | Render (Static Site)            |
 
 ---
 
@@ -44,8 +43,8 @@ Designed with a **Red & Gold dark theme**, glassmorphism cards, and smooth micro
 portfolio-cv/
 ├── public/
 ├── src/
-│   ├── App.jsx        ← All components & data
-│   ├── App.css        ← All styles
+│   ├── App.jsx
+│   ├── App.css
 │   └── main.jsx
 ├── index.html
 ├── package.json
@@ -58,26 +57,26 @@ portfolio-cv/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js v18+
-- npm
+
+* Node.js **v18+**
+* npm
 
 ### Run Locally
 
 ```bash
-# Clone the repository
 git clone https://github.com/prajeshmeena69/portfolio-cv.git
-
-# Navigate into the project
 cd portfolio-cv
-
-# Install dependencies
 npm install
-
-# Start development server
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open:
+
+```
+http://localhost:5173
+```
+
+---
 
 ### Build for Production
 
@@ -85,36 +84,41 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 npm run build
 ```
 
-Output will be in the `/dist` folder.
+Production files are generated inside:
+
+```
+/dist
+```
 
 ---
 
 ## ☁️ Deployment (Render)
 
-1. Push code to GitHub
-2. Go to [render.com](https://render.com) → **New → Static Site**
-3. Connect your GitHub repository
-4. Set the following:
+1. Push the project to **GitHub**
+2. Go to **Render → New → Static Site**
+3. Connect your repository
+4. Configure:
 
 | Setting           | Value           |
-|-------------------|-----------------|
+| ----------------- | --------------- |
 | Build Command     | `npm run build` |
 | Publish Directory | `dist`          |
 
-5. Click **Create Static Site** — live in ~2 minutes ✅
+Render will deploy the site automatically.
 
-Auto-deploys on every `git push` to `main`.
+Every push to **main** triggers a new deployment.
 
 ---
 
 ## 📬 Contact
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | [prajeshmeena10b@gmail.com](mailto:prajeshmeena10b@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/prajesh-singh-meena-607437327](http://www.linkedin.com/in/prajesh-singh-meena-607437327) |
-| 🐙 GitHub | [github.com/prajeshmeena69](https://github.com/prajeshmeena69) |
+| Platform    | Link                                                          |
+| ----------- | ------------------------------------------------------------- |
+| 💼 LinkedIn | linkedin.com/in/prajesh-singh-meena-607437327                 |
+| 🐙 GitHub   | github.com/prajeshmeena69                                     |
 
 ---
 
-<p align="center">Designed & Built by <strong>Prajesh Singh Meena</strong> · KIET'28</p>
+<p align="center">
+Designed & built by <strong>Prajesh Singh Meena</strong> · KIET'28
+</p>
