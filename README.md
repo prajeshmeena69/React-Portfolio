@@ -6,7 +6,7 @@ A modern **developer portfolio & CV website** built with **React + Vite**, featu
 
 ## 🌐 Live Demo
 
-🔗 https://portfolio-cv.onrender.com
+🔗 https://prajesh-portfolio.onrender.com
 
 ---
 
